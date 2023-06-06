@@ -1,0 +1,5 @@
+﻿  斗兽棋.cpp
+C:\Users\pc\source\repos\斗兽棋\斗兽棋\斗兽棋.cpp(109,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\pc\source\repos\斗兽棋\斗兽棋\斗兽棋.cpp(209): warning C4715: “cartastessocolore”: 不是所有的控件路径都返回值
+C:\Users\pc\source\repos\斗兽棋\斗兽棋\斗兽棋.cpp(193): warning C4715: “cartecolore”: 不是所有的控件路径都返回值
+  斗兽棋.vcxproj -> C:\Users\pc\source\repos\斗兽棋\Debug\斗兽棋.exe
